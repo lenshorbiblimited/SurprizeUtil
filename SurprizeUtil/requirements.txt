@@ -1,0 +1,6 @@
+tkinter
+psutil==5.9.8
+qrcode==8.0
+Pillow==11.1.0
+wordcloud==1.9.4
+matplotlib==3.10.1
